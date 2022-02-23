@@ -36,7 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I have learned HTML5,CSS3 and Flex-box through this challenge. I love to explore and learn latest technologies and I think
+Frontend-Mentor is a great site to learn all the interesting stuff.
 
 ## Author
 
