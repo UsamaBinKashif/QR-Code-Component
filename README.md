@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -13,9 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
 
-![](images/.screenshot.png)
 
 ### Links
 
@@ -35,5 +32,5 @@ Use this section to recap over some of your major learnings while working throug
 ## Author
 
 - Website - [Usama Bin Kashif](https://github.com/UsamaBinKashif)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/UsamaBinKashif)
-- Twitter - [@yourusername](https://twitter.com/UsamaBinKashif)
+- Frontend Mentor - [@UsamaBinKashif](https://www.frontendmentor.io/profile/UsamaBinKashif)
+- Twitter - [@UsamaBinKashif](https://twitter.com/UsamaBinKashif)
